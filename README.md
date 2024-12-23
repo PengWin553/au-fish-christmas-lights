@@ -6,4 +6,3 @@ Components:
 1. Aruino Uno
 2. 38 wires (black and orange pairs but you can use any other wire colors) 
 3. 17 resistors (1kilohm each)
-4. Arduino Uno
